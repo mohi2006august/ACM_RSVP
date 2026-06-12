@@ -125,7 +125,6 @@ Store Ticket
       ▼
 Send Ticket to Email
 ```
-
 ---
 
 # 📧 Email Service Architecture
