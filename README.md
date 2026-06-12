@@ -68,7 +68,6 @@ Backend API Calls
       ▼
 Database + Website
 ```
-
 ---
 
 # 📝 RSVP Architecture
