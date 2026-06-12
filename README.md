@@ -2,10 +2,9 @@
 
 > A complete AI-driven Event Management System that automates event creation, RSVP registration, ticket generation, QR verification, email notifications, and analytics.
 
-## 📖 Overview
+## Overview
 
 This platform combines the functionality of **Eventbrite + Google Forms + AI Assistant** into a single system.
-
 ### Modules
 - 🌐 Public Event Website
 - 🤖 AI Event Creation Agent
@@ -15,7 +14,6 @@ This platform combines the functionality of **Eventbrite + Google Forms + AI Ass
 - 📧 Email Notification Service
 - 👨‍💼 Admin Dashboard
 - 📊 Analytics Dashboard
-
 ---
 
 # 🏗 Overall System Architecture
