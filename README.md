@@ -6,7 +6,7 @@
 
 This platform combines the functionality of **Eventbrite + Google Forms + AI Assistant** into a single system.
 
-### Modules
+### Modules:
 - 🌐 Public Event Website
 - 🤖 AI Event Creation Agent
 - 📝 Dynamic RSVP System
@@ -18,7 +18,7 @@ This platform combines the functionality of **Eventbrite + Google Forms + AI Ass
 
 ---
 
-# 🏗 Overall System Architecture
+# 🏗 Overall System Architecture:
 
 ```text
 Admin
