@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Event Management & RSVP Platform
+#  AI-Powered Event Management & RSVP Platform
 
 > A complete AI-driven Event Management System that automates event creation, RSVP registration, ticket generation, QR verification, email notifications, and analytics.
 
